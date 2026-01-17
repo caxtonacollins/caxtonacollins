@@ -11,9 +11,8 @@ I love building and scaling powerful digital products — from web apps to decen
 
 ---
 
-📁 **Portfolio:** [portfolio-4exv.onrender.com](https://portfolio-4exv.onrender.com)  
+📁 **Portfolio:** [portfolio-4exv.onrender.com](https://caxtoncollins.vercel.app/)  
 📬 **Email:** [caxtonacollins@gmail.com](mailto:caxtonacollins@gmail.com)  
-📄 **Know about my experience:** [View my CV](#) <!-- Replace # with CV link -->
 
 ---
 
