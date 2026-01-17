@@ -5,7 +5,7 @@ I love building and scaling powerful digital products — from web apps to decen
 💻 Full-Stack Web Developer  
 📱 Mobile App Developer  
 🔗 Blockchain Developer  
-🧠 Technical Problem Solver  
+🧠 Technical Problem Solver
 🤝 Open-source Contributor  
 🛠️ System Architect & API Integrator  
 
